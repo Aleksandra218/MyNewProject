@@ -16,6 +16,9 @@ public class Solution {
 //        age = 15;
 //        str = "Привет";
     }
+    public static String encrypt() {
+        return encrypt();
+    }
 }
 
 
