@@ -8,7 +8,7 @@ public class Solution {
     }
 
     public void anInt() {
-        Solution cat = new Solution();
+        Person cat = new Person("Aleksandra", 24);
 
         int age1 = cat.age;
         System.out.println(cat);
